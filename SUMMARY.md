@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Artisant du Logiciel
+* [Artisant du Logiciel](software-craftmanship.md)
 
