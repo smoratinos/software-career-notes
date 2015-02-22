@@ -5,4 +5,5 @@
 * [Chef d'équipe](team-leader.md)
 * [Chef de Projet](project-manager.md)
 * [Technologies](technologies.md)
+* Personal Development
 
