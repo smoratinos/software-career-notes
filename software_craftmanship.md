@@ -10,7 +10,48 @@ Elever le niveau du développement professionnel, pour satisfaire le client.
 
 Des logiciels opérationnels.
 
-TODO : dev, sys, ops, archi, test, doc
+#### Besoins
+
+doc expression besoin plus ou moins détaillé
+user stories expression d'un besoin orienté métier
+première estimation
+
+#### Conception
+
+archi
+analyse
+affinage estimation
+doc
+
+#### Implementation
+
+doc
+
+revue code
+
+version control system
+
+#### Test
+
+unitaire
+integration
+fonctionnel
+performance
+montée en charge
+
+
+#### Deploiement
+
+sys, ops
+infra
+microservices
+HA, proxy, conteneur
+
+#### Maintenance
+
+refactoring
+
+debugueur
 
 ### L'ajout constant de valeur
 
