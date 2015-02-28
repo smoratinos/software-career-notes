@@ -30,11 +30,9 @@ Il faut avoir un plan, mais nous devons privilégier l'adaptation aux changement
 Pour celà, il est indispensable d'ajouter constamment de la valeur.
 
 
-### Des logiciels bien conçus
+## Cycle de vie d'une logiciel
 
-Des logiciels opérationnels.
-
-#### Besoins
+### Besoins
 
 Spécification Fontionnelles
 
@@ -42,7 +40,7 @@ doc expression besoin plus ou moins détaillé
 user stories expression d'un besoin orienté métier
 première estimation
 
-#### Conception
+### Conception
 
 Spécification Technique
 
@@ -51,9 +49,9 @@ analyse
 affinage estimation
 doc
 
-#### Implementation
+### Implementation
 
-##### Code
+#### Code
 Le code doit être clair, le reste est secondaire.
 
 Data Structure
@@ -63,7 +61,7 @@ Algorithms
 Thread, Sequence
 
 
-##### Test
+#### Test
 Les doivent être complet : 
  * validation des tests d'acceptance
  * limite du test (attention aux boucles et aux récurrences)
@@ -75,47 +73,42 @@ Types de tests :
  * fonctionnel
  * performance & montée en charge
 
-##### doc
+#### doc
 
 
-##### revue code
+#### revue code
 
 
-##### version control system
+#### version control system
 
-#### Test de l'ensemble du système
+### Test de l'ensemble du système
 
 Il faut impérativement effectuer une validation du produit dans le contexte client, en cas réel.
 
 Cette validation assure que l'ensemble du produit fonctionne sur la plateforme cible, et qu'il s'intègre bien dans l'existant.
 
-#### Deploiement
+### Deploiement
 
 sys, ops
 infra
 microservices
 HA, proxy, conteneur
 
-#### Maintenance
+### Maintenance
 
 refactoring
 
 debugueur
 
-### L'ajout constant de valeur
 
-L'adaptation aux changements
- 
-TODO : agile, lean
+## Concept
 
-### Une communauté de professionnels
+### Montée en charge
 
-Les individus et leurs interactions
+"The Scale Cube"
 
-TODO : partage, formation
+TODO : diagramme
 
-### Des partenariats productifs
+### Event Architecture
 
-La collaboration avec les clients
 
-TODO : agile, lean
