@@ -21,6 +21,14 @@ Organisation entreprise
 
 L’organisation par fonction, l’organisation par opération, l’organisation matricielles.
 
+RACI :
+
+    R : Responsible (réalisent l'action)
+    A : Accountable (totalement responsable d'une action)
+    C : Consulted (donnent leur avis sur les sujets où ils sont experts)
+    I : Informed (doivent être informés)
+
+
 
 ### L’activation
 
