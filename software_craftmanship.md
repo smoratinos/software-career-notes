@@ -4,8 +4,11 @@ Peu importe le poste occupé, du développeur à l'administrateur système en pa
 Peu importe les langages utilisés, du Java au Bash.
 
 Un Artisant du logiciel doit s'intéresser à toutes les phases que traverse un logiciel (analyse, conception, validation et déploiement).
-Il doit sans cesse se remettre en question et puiser des idées dans différents domaine.
-Pour un développeur d'application, il est indispensable de se familiariser avec plusieurs paradigme de programmation.
+Il doit sans cesse se remettre en question et puiser des idées dans différents domaines.
+
+Il est indispensable de se familiariser avec les différentes méthodes de gestion de projet IT, ainsi qu'avec plusieurs paradigmes de programmation.
+Il est aussi intéressant d'aborder plusieurs type d'application (web, embarqué, )
+
 
 ## Objectifs
 
