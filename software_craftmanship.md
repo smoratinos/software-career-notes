@@ -17,7 +17,7 @@ Il faut de la négociation contractuelle, mais nous devons privilégier la colla
 Pour celà, il est indispensable d'avoir des partenariats productifs.
 
 Il faut avoir un plan, mais nous devons privilégier l'adaptation aux changements.
-Pour celà, il est indispensable d'ajouter constament de la valeur.
+Pour celà, il est indispensable d'ajouter constamment de la valeur.
 
 
 ### Des logiciels bien conçus
@@ -83,4 +83,4 @@ TODO : partage, formation
 
 La collaboration avec les clients
 
-TODO : agile ,lean
+TODO : agile, lean
