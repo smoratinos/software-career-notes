@@ -26,11 +26,15 @@ Des logiciels opérationnels.
 
 #### Besoins
 
+Spécification Fontionnelles
+
 doc expression besoin plus ou moins détaillé
 user stories expression d'un besoin orienté métier
 première estimation
 
 #### Conception
+
+Spécification Technique
 
 archi
 analyse
@@ -39,20 +43,41 @@ doc
 
 #### Implementation
 
-doc
+##### Code
+Le code doit être clair, le reste est secondaire.
 
-revue code
+Data Structure
 
-version control system
+Algorithms
 
-#### Test
+Thread, Sequence
 
-unitaire
-integration
-fonctionnel
-performance
-montée en charge
 
+##### Test
+Les doivent être complet : 
+ * validation des tests d'acceptance
+ * limite du test (attention aux boucles et aux récurrences)
+ * cas d'erreur, vérification des entrées
+
+Types de tests : 
+ * unitaire
+ * integration
+ * fonctionnel
+ * performance & montée en charge
+
+##### doc
+
+
+##### revue code
+
+
+##### version control system
+
+#### Test de l'ensemble du système
+
+Il faut impérativement effectuer une validation du produit dans le contexte client, en cas réel.
+
+Cette validation assure que l'ensemble du produit fonctionne sur la plateforme cible, et qu'il s'intègre bien dans l'existant.
 
 #### Deploiement
 
