@@ -53,7 +53,11 @@ RACI :
 
 | Pendant la réunion | -- |
 | -- | -- |
-| -- | -- |
+| Le contexte est connu de tout le monde | -- |
+| Un seul sujet est abordé à la fois | -- |
+| Les discussion sont pertinentes | -- |
+| L'heure de fin est respectée | -- |
+| Chacun peut exprimer son opinion | -- |
 
 | Après la réunion | -- |
 | -- | -- |
