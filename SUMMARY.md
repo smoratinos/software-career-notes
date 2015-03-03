@@ -7,6 +7,8 @@
        * [Analyse des Besoins](software_craftmanship_analysis.md)
        * [Conception](software_craftmanship_design.md)
        * [Implementation](software_craftmanship_implementation.md)
+       * [Test de l'ensemble du système](software_craftmanship_testing.md)
+       * [Déploiement](software_craftmanship_deployment.md)
 * [Chef d'équipe](team_leader.md)
 * [Chef de Projet](project_manager.md)
 * [Technologies](technologies.md)
