@@ -1,9 +1,9 @@
 # Concept
 
 
-### Sécurité
+## Sécurité
 
-### Disponibilité et Résistance
+## Disponibilité et Résistance
 
 L'intégration est le 1er risque. Tous les appels externes peuvent nuire au système.
 
@@ -19,6 +19,6 @@ Test Harness
 
 Bulkheads
 
-### Evolutivité
+## Evolutivité
 
 SOA
