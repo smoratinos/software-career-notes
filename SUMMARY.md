@@ -9,6 +9,7 @@
        * [Implementation](software_craftmanship_implementation.md)
        * [Test de l'ensemble du système](software_craftmanship_testing.md)
        * [Déploiement](software_craftmanship_deployment.md)
+   * [Concept](software_craftmanship_concept.md) 
 * [Chef d'équipe](team_leader.md)
 * [Chef de Projet](project_manager.md)
 * [Technologies](technologies.md)
