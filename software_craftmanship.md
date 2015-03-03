@@ -16,7 +16,6 @@ Elever le niveau du développement professionnel, pour satisfaire le client.
 
 ## Principes
 
-
 Il faut des processus et des outils, mais nous devons privilégier les individus et leurs interactions.
 Pour celà, il est indispensable d'avoir une communauté de professionnels.
 
@@ -29,6 +28,9 @@ Pour celà, il est indispensable d'avoir des partenariats productifs.
 Il faut avoir un plan, mais nous devons privilégier l'adaptation aux changements.
 Pour celà, il est indispensable d'ajouter constamment de la valeur.
 
+[Manifeste pour le développement Agile de logiciels](http://www.agilemanifesto.org/iso/fr/)
+
+[Manifeste pour l'Artisanat Logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr)
 
 ## Cycle de vie d'une logiciel
 
@@ -37,7 +39,9 @@ Pour celà, il est indispensable d'ajouter constamment de la valeur.
 Spécification Fontionnelles
 
 doc expression besoin plus ou moins détaillé
+
 user stories expression d'un besoin orienté métier
+
 première estimation
 
 ### Conception
@@ -45,8 +49,11 @@ première estimation
 Spécification Technique
 
 archi
+
 analyse
+
 affinage estimation
+
 doc
 
 ### Implementation
@@ -90,8 +97,11 @@ Cette validation assure que l'ensemble du produit fonctionne sur la plateforme c
 ### Deploiement
 
 sys, ops
+
 infra
+
 microservices
+
 HA, proxy, conteneur
 
 ### Maintenance
@@ -156,3 +166,4 @@ Bulkheads
 
 ### Evolutivité
 
+SOA
