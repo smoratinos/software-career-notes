@@ -14,22 +14,6 @@ Il est aussi intéressant d'aborder plusieurs type d'application (web, embarqué
 
 Elever le niveau du développement professionnel, pour satisfaire le client.
 
-### Deploiement
-
-sys, ops
-
-infra
-
-microservices
-
-HA, proxy, conteneur
-
-### Maintenance
-
-refactoring
-
-debugueur
-
 
 ## Concept
 
