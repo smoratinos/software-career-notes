@@ -14,10 +14,6 @@ Il est aussi intéressant d'aborder plusieurs type d'application (web, embarqué
 
 Elever le niveau du développement professionnel, pour satisfaire le client.
 
-## Cycle de vie d'un logiciel
-
-### Besoins
-
 ### Conception
 
 Spécification Technique
