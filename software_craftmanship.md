@@ -15,38 +15,6 @@ Il est aussi intéressant d'aborder plusieurs type d'application (web, embarqué
 Elever le niveau du développement professionnel, pour satisfaire le client.
 
 
-### Implementation
-
-#### Code
-Le code doit être clair, le reste est secondaire.
-
-Data Structure
-
-Algorithms
-
-Thread, Sequence
-
-
-#### Test
-Les doivent être complet : 
- * validation des tests d'acceptance
- * limite du test (attention aux boucles et aux récurrences)
- * cas d'erreur, vérification des entrées
-
-Types de tests : 
- * unitaire
- * integration
- * fonctionnel
- * performance & montée en charge
-
-#### doc
-
-
-#### revue code
-
-
-#### version control system
-
 ### Test de l'ensemble du système
 
 Il faut impérativement effectuer une validation du produit dans le contexte client, en cas réel.
