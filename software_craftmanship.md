@@ -32,7 +32,7 @@ Pour celà, il est indispensable d'ajouter constamment de la valeur.
 
 [Manifeste pour l'Artisanat Logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr)
 
-## Cycle de vie d'une logiciel
+## Cycle de vie d'un logiciel
 
 ### Besoins
 
