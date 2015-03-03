@@ -18,14 +18,6 @@ Elever le niveau du développement professionnel, pour satisfaire le client.
 
 ### Besoins
 
-Spécification Fontionnelles
-
-doc expression besoin plus ou moins détaillé
-
-user stories expression d'un besoin orienté métier
-
-première estimation
-
 ### Conception
 
 Spécification Technique
