@@ -7,17 +7,33 @@
 
 L'intégration est le 1er risque. Tous les appels externes peuvent nuire au système.
 
-Circuit Breaker
+### Circuit Breaker
 
-Use Timeouts
+### Use Timeouts
+Thread pools vs. connection pooling
 
-Use Decoupling Middleware
+### Let it Crash / Supervisors
 
-Handshaking
+Laisser l'erreur se produire et la gérer avec des superviseurs par exemple.
+"Retry Strategie"
 
-Test Harness
+### Crash Early
 
-Bulkheads
+Valider les entrées le plus tôt possible.
+Ex : validation d'un fichier de configuration
+Ex : vérifier la disponibilité des ressources avant d'exécuter une tâche coûteuse.
+
+### Use Decoupling Middleware
+
+### Handshaking
+
+### Test Harness
+
+### Bulkheads
+
+### Steady State (clean up resources)
+
+### Throttling
 
 ## Evolutivité
 
