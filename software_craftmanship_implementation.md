@@ -11,14 +11,14 @@ Thread, Sequence
 
 
 #### Test
-Les doivent être complet : 
+Les tests doivent être complet : 
  * validation des tests d'acceptance
  * limite du test (attention aux boucles et aux récurrences)
  * cas d'erreur, vérification des entrées
 
 Types de tests : 
  * unitaire
- * integration
+ * intégration
  * fonctionnel
  * performance & montée en charge
 
