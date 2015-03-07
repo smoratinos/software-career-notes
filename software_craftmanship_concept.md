@@ -3,7 +3,7 @@
 
 ## Sécurité
 
-## Disponibilité et Résistance
+## Disponibilité et Fiabilité
 
 L'intégration est le 1er risque. Tous les appels externes peuvent nuire au système.
 
