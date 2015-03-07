@@ -12,6 +12,7 @@
    * [Concept](software_craftmanship_concept.md)
        * [Performance et Montée en charge](software_craftmanship_performance_scalability.md)
        * [Sécurité](software_craftmanship_security.md)
+       * [Disponibilité et Stabilité](software_craftmanship_disponibility_stability.md)
 * [Chef d'équipe](team_leader.md)
 * [Chef de Projet](project_manager.md)
 * [Technologies](technologies.md)
