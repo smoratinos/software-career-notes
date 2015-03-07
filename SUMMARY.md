@@ -9,7 +9,7 @@
        * [Implementation](software_craftmanship_implementation.md)
        * [Test de l'ensemble du système](software_craftmanship_testing.md)
        * [Déploiement](software_craftmanship_deployment.md)
-   * [Concept](software_craftmanship_concept.md)
+   * [Concepts](software_craftmanship_concept.md)
        * [Performance et Montée en charge](software_craftmanship_performance_scalability.md)
        * [Sécurité](software_craftmanship_security.md)
        * [Disponibilité et Fiabilité](software_craftmanship_disponibility_stability.md)
