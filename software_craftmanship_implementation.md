@@ -19,7 +19,7 @@ Les tests doivent être complet :
 Types de tests : 
  * unitaire
  * intégration
- * fonctionnel
+ * fonctionnel (prendre en compte les Personas)
  * performance & montée en charge
 
 #### doc
