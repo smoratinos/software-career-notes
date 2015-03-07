@@ -1,2 +1,2 @@
-# Cycles de vie d'un Logiciel
+# Cycle de vie d'un Logiciel
 
