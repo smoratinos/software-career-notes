@@ -10,14 +10,4 @@ Pourquoi ?
 
 
 
-## Individus
-
-motivation
-
-psychologie
-
-communication
-
-
-
 
