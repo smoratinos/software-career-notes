@@ -1,2 +1,5 @@
 # Vision
 
+Présentation
+
+Charisme
