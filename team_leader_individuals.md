@@ -1,2 +1,9 @@
 # Individus
 
+
+motivation
+
+psychologie
+
+communication
+
