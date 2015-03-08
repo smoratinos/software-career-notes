@@ -8,13 +8,6 @@ Un leader dit "j'ai un rêve", il ne dit pas "j'ai un plan".
 
 Pourquoi ?
 
-## Missions
-
-## Vision
-
-Présentation
-
-Charisme
 
 ## Actions
 
