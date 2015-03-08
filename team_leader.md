@@ -8,6 +8,15 @@ Un leader dit "j'ai un rêve", il ne dit pas "j'ai un plan".
 
 Pourquoi ?
 
+## Missions
+
+## Vision
+
+Présentation
+
+Charisme
+
+## Actions
 
 
 ## Recruter
@@ -105,13 +114,28 @@ Prêter attention aux data structures, algo, et techno utilisé.
 Ce test consiste à écrire du code et ensuite expliquer ces choix.
 
 
+Former
 
-##Divers
+Changement, Rétrospectives
 
-former, soft skills, motivation
+Mesurer les résultats
+
+## Esprit d'équipe
+
+soft skills
+
+team building
+
+team work
+
+## Individus
+
+motivation
 
 psychologie
 
 communication
 
-changement
+
+
+
