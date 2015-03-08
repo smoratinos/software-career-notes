@@ -9,13 +9,6 @@ Un leader dit "j'ai un rêve", il ne dit pas "j'ai un plan".
 Pourquoi ?
 
 
-## Esprit d'équipe
-
-soft skills
-
-team building
-
-team work
 
 ## Individus
 
