@@ -39,6 +39,9 @@ RACI :
 
 ## Divers
 
+Fonction administrative
+
+Gestion des risques
 
 ### Checklist réunion
 
