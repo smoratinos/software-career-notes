@@ -14,7 +14,7 @@
        * [Sécurité](software_craftmanship_security.md)
        * [Disponibilité et Fiabilité](software_craftmanship_disponibility_stability.md)
        * [Evolutivité](software_craftmanship_evolutivity.md)
-* [Chef d'équipe](team_leader.md)
+* [Meneur d'équipe](team_leader.md)
    * [Missions](team_leader_missions.md)
        * [Vision](team_leader_vision.md)
        * [Actions](team_leader_actions.md)
