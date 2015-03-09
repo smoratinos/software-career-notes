@@ -43,7 +43,19 @@ Faire et tester des prédictions.
 Garder une oreille pour surveiller son corps, et sa santé.
 
 
-## ...
+## Sport Santé
 
-feedback
-health
+
+
+## Se diversifier
+
+Diversifier mon réseau professionnel et personnel.
+Sortir régulièrement de mes zones de confort.
+Développer des relations avec des gens différents de moi.
+
+## Agir vite
+
+Réagir vite, prendre constamment des risques, ne pas parler de prise de risque, le faire.
+
+Etre assez courageux pour abandonner une stratégie qui a été une victoire par le passé.
+
