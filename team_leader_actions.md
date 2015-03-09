@@ -104,4 +104,6 @@ Prendre du recul
 
 Prendre le temps pour observer l'équipe au quotidien. Permet de détecter les points de blocages, et les axes d'amélioration, de juger de l'évolution du groupe et d'apprécier le travail accompli.
 
+Regarder son calendrier, l'analyser, faire une rétrospective pour anticiper le futur, et s'améliorer.
+
 ## Mesurer les résultats business
