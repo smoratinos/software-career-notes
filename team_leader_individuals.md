@@ -7,3 +7,4 @@ psychologie
 
 communication
 
+Ecouter chaque individus, et demander du feedback.
