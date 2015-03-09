@@ -96,8 +96,12 @@ Prêter attention aux data structures, algo, et techno utilisé.
 Ce test consiste à écrire du code et ensuite expliquer ces choix.
 
 
-Former
+## Former
 
-Changement, Rétrospectives
+## Changement, Rétrospectives
 
-Mesurer les résultats
+Prendre du recul
+
+Prendre le temps pour observer l'équipe au quotidien. Permet de détecter les points de blocages, et les axes d'amélioration, de juger de l'évolution du groupe et d'apprécier le travail accompli.
+
+## Mesurer les résultats business
