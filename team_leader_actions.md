@@ -106,7 +106,7 @@ Prendre le temps pour observer l'équipe au quotidien. Permet de détecter les p
 
 Regarder son calendrier, l'analyser, faire une rétrospective pour anticiper le futur, et s'améliorer.
 
-## Influencer le comportement d'une personne
+## Influencer le comportement
 
 Les forces qui influencent le comportement d'une personne.
 Permet de comprendre pourquoi cette personne ne fait pas quelques choses.
