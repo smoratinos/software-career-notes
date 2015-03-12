@@ -11,3 +11,5 @@ Il ne s'agit pas d'un livre complet (il est en cours de rédaction) et son conte
 Il est souvent question de "développeur logiciel", c'est à prendre au sens large, j'englobe sous ce terme **tous les métiers techniques qui permettent de concevoir et livrer un logiciel au client**.
 
 N'hésitez pas à contribuer, j'utilise gitbook par simplicité d'utilisation, de partage, etc... les sources sont accessible ici [software-career-notes sur Github](https://github.com/smoratinos/software-career-notes)
+
+La lecture en ligne est disponible ici [software-career-notes sur GitBook](http://sebastienmoratinos.gitbooks.io/software-career-notes/)
