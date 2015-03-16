@@ -18,3 +18,6 @@ Pourquoi ?
 
 
 Expérimenter sans cesse, prendre des risques, faire confiance.
+
+
+[TED Vidéo : Listen, learn ... then lead](http://www.ted.com/talks/stanley_mcchrystal)
