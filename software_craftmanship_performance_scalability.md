@@ -1,5 +1,6 @@
 # Performance et Montée en charge
 
+Livre : [Seven Concurrency Models in Seven Weeks](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks) (Anglais)
 
 "The Scale Cube"
 
