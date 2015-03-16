@@ -1,5 +1,7 @@
 # Implementation
 
+Livre : [Coding Interviews Questions, Analysis & Solutions](http://www.apress.com/9781430247616) (Anglais)
+
 #### Code
 Le code doit être clair, le reste est secondaire.
 
