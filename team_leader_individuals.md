@@ -88,6 +88,8 @@ Collaboration, Flexibilité, Sang-Froid, Respect, Resoudre les problèmes sans a
  - montrer toujours du respect (ne pas juger)
  - cibler l'attention sur l'interlocuteur
 
+[http://www.eyrolles.com/Entreprise/Livre/communiquer-efficacement-pour-les-nuls-9782754022293](http://www.eyrolles.com/Entreprise/Livre/communiquer-efficacement-pour-les-nuls-9782754022293)
+
 ## Psychologie
 
 
