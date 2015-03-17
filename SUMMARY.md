@@ -6,7 +6,7 @@
    * [Cycle de vie d'un Logiciel](software_craftmanship_software_lifecycles.md)
        * [Analyse des Besoins](software_craftmanship_analysis.md)
        * [Conception](software_craftmanship_design.md)
-       * [Implementation](software_craftmanship_implementation.md)
+       * [Implémentation](software_craftmanship_implementation.md)
        * [Test de l'ensemble du système](software_craftmanship_testing.md)
        * [Déploiement](software_craftmanship_deployment.md)
    * [Concepts](software_craftmanship_concept.md)
