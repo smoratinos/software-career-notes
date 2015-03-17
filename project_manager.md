@@ -19,7 +19,7 @@ Plan stratégique, Plan opérationnel, Budget
 
 Organisation entreprise
 
-L’organisation par fonction, l’organisation par opération, l’organisation matricielles.
+L’organisation par fonction, l’organisation par opération, l’organisation matricielle.
 
 RACI :
 
@@ -49,8 +49,8 @@ Gestion des risques
 | -- | -- |
 | Les objectifs sont clairement définis | -- |
 | Les participants sont prévenus | -- |
-| Les dates de début et de fin sont fixés | -- |
-| La forme est convenu (téléphone, lieux, visio-conference) | -- |
+| Les dates de début et de fin sont fixées | -- |
+| La forme est convenu (téléphone, lieux, visio-conférence) | -- |
 | Agenda et document de support sont partagés | -- |
 
 
@@ -58,7 +58,7 @@ Gestion des risques
 | -- | -- |
 | Le contexte est connu de tout le monde | -- |
 | Un seul sujet est abordé à la fois | -- |
-| Les discussion sont pertinentes | -- |
+| Les discussions sont pertinentes | -- |
 | L'heure de fin est respectée | -- |
 | Chacun peut exprimer son opinion | -- |
 
