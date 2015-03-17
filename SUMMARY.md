@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Artisant du Logiciel](software_craftmanship.md)
+* [Artisan du Logiciel](software_craftmanship.md)
    * [Principes](software_craftmanship_principles.md)
    * [Cycle de vie d'un Logiciel](software_craftmanship_software_lifecycles.md)
        * [Analyse des Besoins](software_craftmanship_analysis.md)
