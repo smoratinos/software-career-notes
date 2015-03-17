@@ -1,4 +1,4 @@
-# Implementation
+# Implémentation
 
 Livre : [Coding Interviews Questions, Analysis & Solutions](http://www.apress.com/9781430247616) (Anglais)
 
@@ -13,8 +13,8 @@ Thread, Sequence
 
 
 #### Test
-Les tests doivent être complet : 
- * validation des tests d'acceptance
+Les tests doivent être complets : 
+ * validation des tests d'acceptances
  * limite du test (attention aux boucles et aux récurrences)
  * cas d'erreur, vérification des entrées
 
