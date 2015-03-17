@@ -8,7 +8,7 @@ TODO : diagramme
 
 ### Threads et Locks
 
-### Programmation fonctionelle
+### Programmation fonctionnelle
 
 ### Séparation Identity/State
 
