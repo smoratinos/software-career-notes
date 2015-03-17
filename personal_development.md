@@ -4,7 +4,7 @@
 
 * Choisir un sujet que l'on aime
 
-Rechercher les compétences nécessaire et les sujets connexes.
+Rechercher les compétences nécessaires et les sujets connexes.
 
 * Se concentrer sur une seule compétence à la fois
 
@@ -24,7 +24,7 @@ Demander aux praticiens.
 
 * Eliminer les obstacles à la pratique
 
-Eviter les distractions autour de soit.
+Eviter les distractions autour de soi.
 
 * Réserver des moments pour pratiquer
 
@@ -32,7 +32,7 @@ Utiliser des répétitions espacées pour favoriser la mémorisation.
 
 *  Créer des boucles de rétroaction rapides
 
-Créer des schéma et des checklist.
+Créer des schémas et des checklist.
 
 * Expérimenter de façon intense mais de courte durée
 
