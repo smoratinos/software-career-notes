@@ -75,7 +75,7 @@ Quel fût le problème le plus difficile à résoudre pour ce projet ? Comment l
 
 Qu'avez vous appris pendant ce projet ?
 
-Quelles étaient vos relations avec les autres membres de l'équipe, et les autres équipes développeurs, testeurs, UI designers, ou chef de projet ? Comment avez vous éliminer les conflits ?
+Quelles étaient vos relations avec les autres membres de l'équipe, et les autres équipes développeurs, testeurs, UI designers, ou chef de projet ? Comment avez-vous éliminé les conflits ?
 
 Et au final pour chaque poste : 
 
@@ -117,7 +117,7 @@ Préparation avant rencontre en tête à tête.
 | -- | -- |
 | Compétence Personnel | A t-elle toutes les compétences ou les connaissances pour effectuer ce qui est nécessaire ? |
 | Motivation Personnel | Eprouve t-elle de la satisfaction lorsqu'elle a un bon comportement ? A t-elle la force de s'engager lorsque les choses sont difficiles ? |
-| Compétence Sociale | Reçoit elle de l'aide et toutes les informations nécessaire lorsqu'elle est dans une situation critique. |
+| Compétence Sociale | Reçoit elle de l'aide et toutes les informations nécessaires lorsqu'elle est dans une situation critique. |
 | Motivation Sociale | Est-ce que son entourage est actif et a un comportement encourageant ? |
 | Compétence Environnementale | Y a t-il des aspects de l'environnement (culture, locaux, budget, etc..) qui n'encourage pas un bon comportement. Y a t-il suffisamment d'indice et de rappel pour rester sur la bonne voie ? |
 | Motivation Environnementale | Les récompenses (salaires, primes, etc...) sont-elles claires et adaptées lorsque le comportement est bon ou mauvais ? Est-ce que les récompenses à court terme sont en accord avec les souhaits de résultats à long terme et les comportements attendus ? |
