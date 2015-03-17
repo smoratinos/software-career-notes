@@ -3,7 +3,7 @@
 
 ## Motivation
 
-Aquérir. Défendre. Intéragir. Apprendre.
+Acquérir. Défendre. Interagir. Apprendre.
 
 
 ## Communication
@@ -13,7 +13,7 @@ But de la communication : compréhension mutuelle
 Conversation de qualité = chacun alterne le rôle d'émetteur et récepteur
 
 Attention : si 2 émetteurs conflits
- - soit il faut être receptif
+ - soit il faut être réceptif
  - soit il faut amener l'autre à être réceptif à son tour
 
 Se focaliser sur les problèmes pas sur les personnes
@@ -47,7 +47,7 @@ Pratiquer l'écoute active :
  - l'affirmation de soi favorise les conversations bilatérales
 
 Franchise, direct et constructif : 
- - délivrer des messages les plus clairs possible et concentrés sur le sujet
+ - délivrer des messages les plus clairs possibles et concentrés sur le sujet
 
 Focaliser sur les solutions à apporter
 
@@ -62,7 +62,7 @@ Chercher les problèmes à la source
  Demander sans exiger
  - traduire l'importance de la demande de sorte que le destinataire la comprenne tout de suite
 
-Collaboration, Flexibilité, Sang-Froid, Respect, Resoudre les problèmes sans accuser
+Collaboration, Flexibilité, Sang-Froid, Respect, Résoudre les problèmes sans accuser
 
 
 ### Ecoutes
@@ -77,13 +77,13 @@ Collaboration, Flexibilité, Sang-Froid, Respect, Resoudre les problèmes sans a
  - fournir un retour verbal afin de synthétiser sa compréhension du message
  - regarder son interlocuteur dans les yeux
  - expressions du visage qui montre son intérêt
- - acquisser de la tête
+ - acquiescer de la tête
  - accuser verbalement la réception du message de manière simple "Je vois", "D'accord", "Entendu", "Oui", "Ok", "Bien" pour inciter la suite
  - soulever des questions pour favoriser l'expression du message
  - explorer les raisons de l'apparition des émotions exprimées
  - s'exprimer franchement si le message est flou  ou confus
  - éliminer les sources de distraction et les obstacles physiques
- - ne pas faire de suppositions, interprétations et conclusions attives
+ - ne pas faire de suppositions, interprétations et conclusions hâtives
  - éviter les conseils sauf s'ils sont demandés
  - montrer toujours du respect (ne pas juger)
  - cibler l'attention sur l'interlocuteur
@@ -103,4 +103,4 @@ Il faut en tirer une leçon, que ça devienne une expérience profitable.
 
 ## Feedback
 
-Ecouter chaque individus, et demander du feedback.
+Ecouter chaque individu, et demander du feedback.
