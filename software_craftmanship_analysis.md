@@ -2,19 +2,15 @@
 
 
 
-Spécification Fontionnelles 
+Spécifications fonctionnelles détaillées
 
  
 
-doc expression besoin plus ou moins détaillé 
+User stories expression d'un besoin orienté métier 
 
  
 
-user stories expression d'un besoin orienté métier 
-
- 
-
-première estimation 
+Première estimation 
 
  
 
