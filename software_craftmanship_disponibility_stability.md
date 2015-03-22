@@ -1,5 +1,6 @@
 # Disponibilité et Fiabilité
 
+Livre : [Release-It](https://pragprog.com/book/mnee/release-it) (Anglais)
 
 L'intégration est le 1er risque. Tous les appels externes peuvent nuire au système.
 
