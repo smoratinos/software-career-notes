@@ -93,6 +93,16 @@ Collaboration, Flexibilité, Sang-Froid, Respect, Résoudre les problèmes sans 
 ## Psychologie
 
 
+### Influencer les prises de décisions
+
+[Talk Video - Daniel Ariely : Contrôlons-nous nos décisions?](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?language=fr)
+
+Lors d'un choix complexe et difficile qui a de l'importance pour nous : nous faisons le choix qui nous est suggéré.
+
+Il suffit de présenter un choix comme étant celui "par défaut" pour qu'une majorité laisse ce choix par défaut.
+
+Imaginons 2 choix A et B. Le fait d'ajouter un 3ème choix A' qui est sensiblement inférieur à A, rends le choix A meilleur que B pour notre cerveau.
+
 ## Le droit à l'échec
 
 Laisser échouer l'autre sans pour autant le laisser être un raté.
