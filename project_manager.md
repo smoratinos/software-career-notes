@@ -51,6 +51,24 @@ RACI :
 
 ### Le contrôle
 
+## Risques
+
+### Risques Métiers
+
+Construit-on la bonne chose ?
+
+### Risques Sociaux
+
+Ces personnes peuvent-elles la construire ?
+
+### Risques Techniques
+
+Est-ce que ça marchera sur la plateforme cible ?
+
+### Risque Coûts et Délais
+
+Peut-on finir dans des délais raisonnables et avec des coûts raisonnables ?
+
 
 ## Divers
 
