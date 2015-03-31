@@ -5,6 +5,24 @@
 
 Acquérir. Défendre. Interagir. Apprendre.
 
+### Motivations au travail
+
+[Talk Video - Dan Ariely: Qu'est-ce qui nous apporte de la satisfaction dans notre travail ?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work?language=fr)
+
+Atteindre un but, des défis.
+
+#### Suppression de la motivation négative
+Annuler ou Casser le travail de quelqu'un revient à lui enlever tout plaisir qu'il a pu avoir même s'il a aimé faire ce travail.
+Il faut absolument penser à sa motivation et préparer cette annulation, pour que la personne comprenne que ça n'a pas servi à rien, que le travail avait un sens.
+Démo, ou autre...
+
+Ignorer la performance de quelqu'un est aussi terrible que de détruire son travail sous ses yeux. En regardant simplement son travail produit, on améliore considérablement sa motivation.
+
+#### Motivation positive
+
+Plus la tâche est difficile (mais faisable) plus la satisfaction est grande lors de la réussite --> il faut des défis, des challenges.
+
+Nous apprécions mieux les choses si nous participons à sa construction --> impliquer les individus dans le projet.
 
 ## Communication
 
