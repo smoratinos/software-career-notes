@@ -25,6 +25,7 @@
        * [Coach](team_leader_coach.md)
        * [Facilitateur](team_leader_facilitator.md)
 * [Chef de Projet](project_manager.md)
+* [Responsable de Produit](product_manager.md)
 * [Technologies](technologies.md)
 * [Développement Personnel](personal_development.md)
 
